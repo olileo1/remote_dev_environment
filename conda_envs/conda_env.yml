@@ -1,0 +1,16 @@
+name: ml
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - ipython
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - pip
+  - black
+  - plotly
